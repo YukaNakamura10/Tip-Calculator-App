@@ -31,7 +31,7 @@ This is the first IOS app I finished making. It took me time to figure out how t
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Yuka Nakamura]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
